@@ -10,7 +10,7 @@ function App() {
     <>
       <div id='app'>
         <nav></nav>
-        <main></main>
+        <main>yooo</main>
         <footer></footer>
       </div>
      
