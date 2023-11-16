@@ -9,7 +9,15 @@ function App() {
   return (
     <>
       <div id='app'>
-        <nav></nav>
+        <header>
+          <img src="" alt="" />
+          <nav>
+            <button>Home</button>
+            <button>Bubble Teas</button>
+            <button>Location</button>
+          </nav>
+        </header>
+
         <main>brooo</main>
         <footer></footer>
       </div>
