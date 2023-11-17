@@ -10,7 +10,7 @@ function App() {
     <>
       <div id='app'>
         <header>
-          <img src="" alt="" />
+          <img id='logo_background' src="src/assets/leafs.jpg" alt="" />
           <nav>
             <button>Home</button>
             <button>Bubble Teas</button>
