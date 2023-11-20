@@ -25,7 +25,12 @@ function App() {
 
         </header>
 
-        <main><p>Welcome by Black Pearl</p></main>
+        <main><h1>Welcome by Black Pearl</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum repellendus consequuntur, rem officia quibusdam doloribus iste dolorum placeat reprehenderit est cumque modi, praesentium ex ullam aliquam? Blanditiis saepe possimus laborum!
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem quo, inventore, ea consequatur nam harum reiciendis debitis et maxime laborum sed temporibus laboriosam fugit beatae, quia repellat delectus molestiae! Accusantium?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae aspernatur consequatur fugiat, nemo unde architecto quidem! Ea doloribus nihil magnam quidem a voluptatem vel distinctio numquam accusantium! Illo, sint facere?
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut, quod voluptates! Modi, nobis cupiditate laudantium voluptates distinctio beatae, perspiciatis repellat ullam quo harum eligendi veritatis animi minima perferendis expedita facere.
+          </p></main>
         <footer></footer>
       </div>
      
