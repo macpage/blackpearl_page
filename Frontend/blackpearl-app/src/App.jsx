@@ -32,6 +32,7 @@ function App() {
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut, quod voluptates! Modi, nobis cupiditate laudantium voluptates distinctio beatae, perspiciatis repellat ullam quo harum eligendi veritatis animi minima perferendis expedita facere.
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem illum est unde debitis nam culpa recusandae dolore explicabo, beatae optio officiis corrupti maiores iusto reiciendis pariatur totam. Labore, ea error.
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus id nulla mollitia aspernatur voluptatibus a accusantium temporibus molestiae facilis sit. Illum autem quod ad consequuntur blanditiis id corrupti? Qui, dignissimos.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo assumenda dolores dolor ipsa tenetur fuga corporis. Modi error doloribus mollitia obcaecati consectetur est impedit aspernatur tenetur voluptates nostrum. Magni, neque.
           </p></main>
         <footer></footer>
       </div>
